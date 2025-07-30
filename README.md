@@ -1,6 +1,6 @@
-# Python Practice Projects 🐍
+# Python-for-Beginners 🐍
 
-This repository contains my personal exercises and small projects while learning the Python programming language.
+This repository contains my personal exercises and small projects while learning the Python programming language by myself.
 
 ## 🎯 Purpose
 - Practice Python basics.
