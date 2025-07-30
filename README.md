@@ -1,15 +1,18 @@
-# Python for Beginners
+# Python Practice Projects 🐍
 
-This repository contains exercises and small projects following the YouTube course:
+This repository contains my personal exercises and small projects while learning the Python programming language.
 
-📺 [Python Tutorial for Beginners - Full Course in 11 Hours [2023]](https://www.youtube.com/watch?v=...)  
-⌛ Based on table of contents with timestamp-based organization.
+## 🎯 Purpose
+- Practice Python basics.
+- Improve my coding skills through hands-on projects.
+- Track my progress using Git and GitHub.
 
-## Structure
+## 🧠 What's Inside
+- Beginner-level tasks: variables, conditions, loops.
+- Small programs: calculators, games, simulations, and more.
+- Comments in the code explaining the logic behind it.
 
-- `01_intro_and_basics/` – First steps, input, variables
-- `02_control_flow/` – Conditions, loops, logic
-- `03_data_structures/` – Lists, dictionaries, etc.
-- `04_functions/` – Writing and reusing functions
-- `05_exceptions/` – Handling errors
-- `06_projects/` – Mini projects and practice
+## 🛠️ Technologies
+- Python 3.x
+- Git & GitHub
+
