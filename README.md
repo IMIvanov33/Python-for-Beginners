@@ -16,3 +16,6 @@ This repository contains my personal exercises and small projects while learning
 - Python 3.x
 - Git & GitHub
 
+## ▶️ Main sourse 
+- Programming with Mosh
+- https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=12628s 
