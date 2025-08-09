@@ -1,0 +1,6 @@
+This folder is used only for testing the pathlib.Path.mkdir() function in Python.
+
+It was automatically created during a test script and can be safely deleted.
+
+Folder name: Emails
+Purpose: Path creation test using pathlib
